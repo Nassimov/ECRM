@@ -1,0 +1,24 @@
+[
+    {
+        "salutation": "xxx",
+        "last_name": "xxxx",
+        "first_name": "xxxx",
+        "email": "xxxxx",
+        "purchases": [
+            {
+                "product_id": "xxxx",
+                "price": 10,
+                "currency": "dollars",
+                "quantity": 1,
+                "purchased_at": "YYYY-MM-DD"
+            },
+            {
+                "product_id": "xxxx",
+                "price": 10,
+                "currency": "dollars",
+                "quantity": 1,
+                "purchased_at": "YYYY-MM-DD"
+            }
+        ]
+    }
+]
